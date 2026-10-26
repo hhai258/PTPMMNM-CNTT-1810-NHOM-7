@@ -1,0 +1,44 @@
+{
+  "format": "ffm-config/1",
+  "flags": {
+    "new_checkout": {
+      "default": "true",
+      "rules": [
+        {
+          "priority": 0,
+          "type": "percentage",
+          "value": true,
+          "percentage": 150
+        },
+        {
+          "priority": 2,
+          "type": "group",
+          "value": true,
+          "group": "khong_co_nhom",
+          "percentage": 50
+        },
+        {
+          "priority": 3,
+          "type": "theo_gio",
+          "value": true,
+          "percentage": 10
+        }
+      ]
+    },
+    "tinh_nang_khong_ton_tai": {
+      "default": false,
+      "rules": []
+    },
+    "dark_mode": {
+      "default": true,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "user_list",
+          "value": true,
+          "users": []
+        }
+      ]
+    }
+  }
+}

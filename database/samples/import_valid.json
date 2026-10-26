@@ -1,0 +1,152 @@
+{
+  "format": "ffm-config/1",
+  "flags": {
+    "new_checkout": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "user_list",
+          "value": true,
+          "users": [
+            "user0001",
+            "user0002",
+            "user0003"
+          ]
+        },
+        {
+          "priority": 2,
+          "type": "group",
+          "value": true,
+          "group": "beta",
+          "percentage": 80
+        },
+        {
+          "priority": 3,
+          "type": "percentage",
+          "value": true,
+          "percentage": 50
+        }
+      ]
+    },
+    "dark_mode": {
+      "default": true,
+      "rules": []
+    },
+    "product_reviews": {
+      "default": true,
+      "rules": []
+    },
+    "fast_search": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "percentage",
+          "value": true,
+          "percentage": 100
+        }
+      ]
+    },
+    "wishlist": {
+      "default": true,
+      "rules": []
+    },
+    "live_chat": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "group",
+          "value": true,
+          "group": "staff",
+          "percentage": 100
+        },
+        {
+          "priority": 2,
+          "type": "percentage",
+          "value": true,
+          "percentage": 25
+        }
+      ]
+    },
+    "promo_banner": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "user_list",
+          "value": false,
+          "users": [
+            "user0100"
+          ]
+        },
+        {
+          "priority": 2,
+          "type": "group",
+          "value": true,
+          "group": "vip",
+          "percentage": 100
+        }
+      ]
+    },
+    "one_click_buy": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "group",
+          "value": true,
+          "group": "vip",
+          "percentage": 100
+        }
+      ]
+    },
+    "recommendations": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "user_list",
+          "value": false,
+          "users": [
+            "user0007",
+            "user0014"
+          ]
+        },
+        {
+          "priority": 2,
+          "type": "group",
+          "value": true,
+          "group": "vip",
+          "percentage": 100
+        },
+        {
+          "priority": 3,
+          "type": "percentage",
+          "value": true,
+          "percentage": 20
+        }
+      ]
+    },
+    "beta_dashboard": {
+      "default": false,
+      "rules": [
+        {
+          "priority": 1,
+          "type": "group",
+          "value": true,
+          "group": "staff",
+          "percentage": 100
+        },
+        {
+          "priority": 2,
+          "type": "group",
+          "value": true,
+          "group": "beta",
+          "percentage": 100
+        }
+      ]
+    }
+  }
+}

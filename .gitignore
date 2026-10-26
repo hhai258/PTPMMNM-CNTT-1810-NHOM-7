@@ -1,0 +1,6 @@
+config/config.local.php
+*.local
+*.log
+demo_app/logs/
+.DS_Store
+demo_app/config.local.php
