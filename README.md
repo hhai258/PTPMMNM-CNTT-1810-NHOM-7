@@ -20,7 +20,7 @@ Bài tập lớn học phần **Phát triển phần mềm mã nguồn mở**, *
 ### Thành viên
 
 | STT | Họ và tên | Mã sinh viên | GitHub | Phần phụ trách |
-|---|---|---|---|---|
+|Nguyễn Thành Đạt|1871020135|---|---|---|
 | 1 | Nguyễn Hoàng Hải | 1871020211 | [@hhai258](https://github.com/hhai258) | `<điền phần phụ trách>` |
 | 2 | Nguyễn Thành Đạt | `<MSV>` | `<@tài-khoản>` | `<điền phần phụ trách>` |
 
