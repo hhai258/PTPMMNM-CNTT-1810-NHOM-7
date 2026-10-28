@@ -15,7 +15,7 @@ Bài tập lớn học phần **Phát triển phần mềm mã nguồn mở**, *
 | Trường / lớp | Đại học Đại Nam, lớp CNTT-1810 |
 | Nhóm | Nhóm 7 (repo `PTPMMNM-CNTT-1810-NHOM-7`) |
 | Đề tài | Đề tài 1. Xây dựng hệ thống quản lý cấu hình bật, tắt tính năng của ứng dụng Web |
-| Giảng viên | Nguyễn Thế Huy Hoàng ||Lê Tuấn Anh|
+| Giảng viên | Nguyễn Thế Huy Hoàng | |Lê Tuấn Anh|
 
 ### Thành viên
 
