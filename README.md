@@ -15,14 +15,14 @@ Bài tập lớn học phần **Phát triển phần mềm mã nguồn mở**, *
 | Trường / lớp | Đại học Đại Nam, lớp CNTT-1810 |
 | Nhóm | Nhóm 7 (repo `PTPMMNM-CNTT-1810-NHOM-7`) |
 | Đề tài | Đề tài 1. Xây dựng hệ thống quản lý cấu hình bật, tắt tính năng của ứng dụng Web |
-| Giảng viên | `<TÊN GIẢNG VIÊN>` |
+| Giảng viên | Nguyễn Thế Huy Hoàng ||Lê Tuấn Anh|
 
 ### Thành viên
 
 | STT | Họ và tên | Mã sinh viên | GitHub | Phần phụ trách |
-|Nguyễn Thành Đạt|1871020135|---|---|---|
+|||---|---|---|
 | 1 | Nguyễn Hoàng Hải | 1871020211 | [@hhai258](https://github.com/hhai258) | `<điền phần phụ trách>` |
-| 2 | Nguyễn Thành Đạt | `<MSV>` | `<@tài-khoản>` | `<điền phần phụ trách>` |
+| 2 | Nguyễn Thành Đạt | 1871020135 | @th4nhdat2611 | 
 
 ---
 
